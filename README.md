@@ -1,53 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Portfolio</title>
+    <title>Good Products</title>
 </head>
-
 <body>
 
-    <center>
-        <h1>My Portfolio</h1>
-        <p>Welcome to my personal website</p>
-        <hr>
-    </center>
-
-    <h2>About Me</h2>
-    <p>
-        Hello! My name is [Your Name]. I am a student and I am learning web development.
-        I enjoy coding, fitness, and improving my skills every day.
-    </p>
-
-    <h2>Skills</h2>
-    <ul>
-        <li>HTML Basics</li>
-        <li>Problem Solving</li>
-        <li>Fitness & Discipline</li>
-    </ul>
-
-    <h2>Projects</h2>
-    <ul>
-        <li>Simple Website (HTML only)</li>
-        <li>Personal Portfolio</li>
-        <li>Practice Web Pages</li>
-    </ul>
-
-    <h2>Achievements</h2>
-    <ul>
-        <li>Learning coding consistently</li>
-        <li>Improving physical fitness</li>
-        <li>Discipline and time management</li>
-    </ul>
-
-    <h2>Contact</h2>
-    <p>Email: yourname@example.com</p>
-    <p>Phone: +977-XXXXXXXXXX</p>
+    <h1>🔥 Best Products</h1>
+    <p>Top recommended items for you</p>
 
     <hr>
 
-    <center>
-        <p>© 2026 My Portfolio | All Rights Reserved</p>
-    </center>
+    <!-- Product 1 -->
+    <h2>📱 Smartphone</h2>
+    <p><b>Name:</b> Galaxy Pro X</p>
+    <p><b>Price:</b> Rs. 25,000</p>
+    <p><b>Rating:</b> ⭐⭐⭐⭐⭐</p>
+    <p>Best phone for gaming and camera quality.</p>
+
+    <hr>
+
+    <!-- Product 2 -->
+    <h2>🎧 Headphones</h2>
+    <p><b>Name:</b> Bass Boost 500</p>
+    <p><b>Price:</b> Rs. 3,000</p>
+    <p><b>Rating:</b> ⭐⭐⭐⭐</p>
+    <p>High bass and noise cancellation feature.</p>
+
+    <hr>
+
+    <!-- Product 3 -->
+    <h2>⌚ Smart Watch</h2>
+    <p><b>Name:</b> FitMax Ultra</p>
+    <p><b>Price:</b> Rs. 5,500</p>
+    <p><b>Rating:</b> ⭐⭐⭐⭐⭐</p>
+    <p>Tracks health, heart rate, and notifications.</p>
+
+    <hr>
+
+    <h3>✔️ Thanks for visiting!</h3>
 
 </body>
 </html>
